@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Pun-loving developer, always on the lookout for productivity hacks
+> Here to learn something new
+{: .prompt-tip }
+> Build and iterate
+{: .prompt-tip }
+> Always down for a good pun.
 {: .prompt-tip }
