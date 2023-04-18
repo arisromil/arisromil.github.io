@@ -7,7 +7,7 @@ tags: [staff]     # TAG names should always be lowercase
 
 Jotting down my takeaways for the book : [The Staff Engineer's Path](https://bookshop.org/p/books/the-staff-engineer-s-path-a-guide-for-individual-contributors-navigating-growth-and-change-tanya-reilly/18369968?ean=9781098118730)
 
-- there's a website for [How To Engineer Kindness](kind.engineering)
+- there's a website for [How To Engineer Kindness](https://www.kind.engineering/)
 - know how your organiztion operates, chapter 2 dives deep into it about various 'maps'
 - getting unblocked in chapter 6
 - `nemawashi` sharing info and laying foundation, by the time a decision is made there's already consensus
