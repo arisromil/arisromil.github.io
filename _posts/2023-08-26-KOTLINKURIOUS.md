@@ -25,4 +25,4 @@ Books that helped me on this summer fling
 -  Kotlin Cookbook from O’Reilly
 
 
-Created an organization to hold my Kotlin repos [https://github.com/kotlin-kurious/](https://github.com/kotlin-kurious/)
+Created an organization to hold my Kotlin repos https://github.com/kotlin-kurious
