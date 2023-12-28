@@ -7,9 +7,13 @@ tags: [reframes]     # TAG names should always be lowercase
 
 
 > Stories are always more powerful than statistics.
+
 > People don’t want accuracy. They want certainty.
+
 > Stories are always more powerful than statistics.
+
 > Progress requires optimism and pessimism to coexist.
+
 > Invest in preparedness, not in prediction.
 
 
