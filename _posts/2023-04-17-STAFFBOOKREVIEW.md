@@ -16,7 +16,7 @@ Jotting down my takeaways for the book : [The Staff Engineer's Path](https://boo
 I'm trying out ways how to better remember books i've read, here's a [Notion template](https://lizziefilips.gumroad.com/l/veqls?_gl=1*b6d28v*_ga*MTUzOTM3ODI1LjE2NTg0MTI3NTA.*_ga_6LJN6D94N6*MTY1ODQxMjc1MS4xLjEuMTY1ODQxNDE2Mi4w) i'm planning to use
 
 
-![image info](../../assets/staffBookCvr.jpg)
+![image info](../assets/staffBookCvr.jpg)
 
 
 

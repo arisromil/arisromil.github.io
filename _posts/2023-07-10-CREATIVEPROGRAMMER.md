@@ -15,7 +15,7 @@ My takeaways for the book : [The Creative Programmer](https://bookshop.org/p/boo
 -  let the "liquid network" flow the two extremes of stable and wild ideas
 -  have a growth mindset
 
-![image info](../../assets/creativeProgrammerBookCvr.jpg)
+![image info](../assets/creativeProgrammerBookCvr.jpg)
 
 
 
