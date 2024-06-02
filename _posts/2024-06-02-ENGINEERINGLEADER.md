@@ -16,7 +16,7 @@ tags: [leadership]     # TAG names should always be lowercase
 
 
 Defining the Moment:
-![image info](../assets/DefiningtheMoment.png)
+![image info](../assets/DefiningtheMoment.PNG)
 The bigger picture is the most important thing; even if you see a small dip in trajectory, the overall trend is moving up
 Deciding what this moment is helps you decide what to do with it:
 
