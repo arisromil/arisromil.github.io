@@ -5,8 +5,8 @@ categories: [book]
 tags: [leadership]     # TAG names should always be lowercase
 ---
 
-## Notes from Part One: Section 1: “DRIing Your Career” & Section 2: “Self-Management”
-- The goal isnt to optimize for this moment-the current job- but for your overall career
+## Notes from Section 1: “DRIing Your Career” and Section 2: “Self-Management”
+- The goal isn't to optimize for this moment-the current job- but for your overall career
 - The Work > The Title , a job title is a few words. The work is 40 or more hours a week
 - This job is just a `moment` in your career
 - Regularly thinking critically about what you're getting from your environment-and what you're not is key to sustained and sustainable growth
@@ -28,7 +28,7 @@ What potential does this create? What optionality does it facilitate?
 This is the power of the stretch assignment—meet the challenge, see what opens up as a result.
 
 …a moment of trauma:
-The most dangerous moment—is this moment creating something you willcarry with you and need to untangle later? Tread carefully.
+The most dangerous moment—is this moment creating something you will carry with you and need to untangle later? Tread carefully.
 
 …a moment of calm:
 Sometimes we need our jobs to just be fine—not too stressful, not too challenging—to create space for other things in our lives.
